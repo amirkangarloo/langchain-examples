@@ -1,5 +1,5 @@
 # LangChain.JS Example 01 - Translate
-This example translate text to another language function by using OpenAi API and LangChain.JS.
+This example translate text to another language by using OpenAi API and LangChain.JS.
 
 ## Run
 Add your OpenAi API key to .env file.
