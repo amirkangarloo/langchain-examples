@@ -1,0 +1,20 @@
+{
+  "name": "langchain-examples",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Amir Kangarloo <amirkangarloo1051@gmail.com>",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "rm -rf dist && tsc",
+    "01": "node dist/01/index.js",
+    "02": "node dist/02/index.js",
+    "example": "pnpm run build && pnpm run"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.13.11",
+    "typescript": "^5.8.2"
+  }
+}
