@@ -1,5 +1,2 @@
-const test = (): void => {
-  console.log('hello world 2');
-};
-
-test();
+// TODO: Implement another example
+console.log('TODO: Implement another example');
