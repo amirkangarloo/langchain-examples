@@ -1,4 +1,4 @@
-# LangChain.JS Example 01 - ChatBot
+# LangChain.JS Example 02 - ChatBot
 This example is simple chatbot by using OpenAi API and LangChain.JS.
 
 ## Run
